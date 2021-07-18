@@ -18,5 +18,6 @@ STEPS TO USE IT.
 11) write again your to email in box
 12) press enter
 13) repeate this untill you have entered all the to emails in the box
-14) press send email button to send your email
+14) click on create list to creat list of all to address email
+15) press send email button to send your email
 IMPORTANT NOTE: This program uses smtp server, MAKE SURE YOU HAVE ENABLED THE OPTION LESS SECURE APP FROM WHICH ACCOUNT YOU WANT TO SEND YOUR EMAILS.
